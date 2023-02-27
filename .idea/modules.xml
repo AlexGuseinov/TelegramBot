@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MainProject.iml" filepath="$PROJECT_DIR$/.idea/MainProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontApp/SpringDemoBot.iml" filepath="$PROJECT_DIR$/frontApp/SpringDemoBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telegrambot-cem/SpringDemoBot (1).iml" filepath="$PROJECT_DIR$/telegrambot-cem/SpringDemoBot (1).iml" />
+    </modules>
+  </component>
+</project>
