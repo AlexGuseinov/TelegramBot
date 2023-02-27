@@ -4,3 +4,4 @@ The whole application consists of 2 modules front app and bot app. Front app is 
 and also get data from frontend and send to Queue (RabbitMQ). Bot app is responsible for managing bot commands getting questions from db and respectively asking
 to the user and also saving user answers in the dataBase. Also bot app has a RabbitListener queue which listens if there's any sent data from AdminPanel in 
 frontend.
+Used technology sets are PostgreSql, Redis, RabbitMQ, DockerCompose and as a language used Java.
